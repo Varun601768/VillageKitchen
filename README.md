@@ -6,7 +6,7 @@
 ---
 
 ## ✨ Features
-- 📊 Track stored food items with percentage cooked  
+- 📊 Track stored food items 
 - ➕ Add new food items easily  
 - 💾 Persistent storage using `data.json`  
 - ⚛️ Frontend built with **React.js**  
